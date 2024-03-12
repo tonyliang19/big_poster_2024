@@ -1,0 +1,127 @@
+"method","action","tag","realtime","%cpu","%mem","rss","peak_rss","peak_vmem","duration","raw_seconds"
+"mogonet","preprocess","multiomics-sim1","7.5s","57.8%","0.2%","352.7 MB","356.7 MB","3.4 GB","10.3s",10.3
+"diablo","preprocess","multiomics-sim1","13.2s","86.9%","0.3%","640.2 MB","640.2 MB","1.7 GB","14.3s",14.3
+"mogonet","preprocess","GSE123","7.8s","54.0%","0.2%","350.6 MB","350.6 MB","3.4 GB","10.6s",10.6
+"cooperative_learning","preprocess","multiomics-sim1","12.9s","90.1%","0.3%","640.2 MB","640.2 MB","1.7 GB","14s",14
+"cooperative_learning","preprocess","GSE123","12.9s","87.0%","0.3%","640.2 MB","640.2 MB","1.7 GB","14.2s",14.2
+"diablo","preprocess","GSE123","13.4s","83.5%","0.3%","640.2 MB","640.2 MB","1.7 GB","14.9s",14.9
+"mogonet","preprocess","multiomics-sim2","7.7s","59.1%","0.2%","367.6 MB","367.6 MB","3.4 GB","10.5s",10.5
+"diablo","preprocess","multiomics-sim2","13.7s","86.7%","0.3%","641 MB","641 MB","1.7 GB","15.1s",15.1
+"cooperative_learning","preprocess","multiomics-sim2","13.4s","88.7%","0.3%","642.9 MB","642.9 MB","1.7 GB","14.6s",14.6
+"mogonet","preprocess","GSE71669","13.6s","78.0%","0.2%","465.6 MB","465.6 MB","3.5 GB","16.7s",16.7
+"diablo","train","multiomics-sim1-fold_1","10.6s","95.6%","0.3%","534.1 MB","534.1 MB","1.6 GB","11.7s",11.7
+"diablo","preprocess","GSE71669","16.6s","85.8%","0.3%","664.2 MB","676.3 MB","1.7 GB","18.1s",18.1
+"diablo","train","multiomics-sim1-fold_3","11.1s","88.0%","0.3%","588.7 MB","588.7 MB","1.8 GB","12.3s",12.3
+"cooperative_learning","preprocess","GSE71669","16.2s","86.8%","0.3%","673.2 MB","676.3 MB","1.7 GB","17.4s",17.4
+"diablo","train","multiomics-sim1-fold_2","10.5s","101.1%","0.3%","534.1 MB","534.1 MB","1.6 GB","11.8s",11.8
+"mogonet","preprocess","rosmap","12.6s","40.9%","0.2%","366.1 MB","366.1 MB","3.4 GB","15.7s",15.7
+"diablo","train","GSE123-fold_1","17.6s","57.2%","0.3%","534.1 MB","534.1 MB","1.6 GB","18.9s",18.9
+"diablo","train","GSE123-fold_3","16.5s","62.7%","0.3%","534 MB","534 MB","1.6 GB","18.4s",18.4
+"diablo","predict","multiomics-sim1-fold_1","6.1s","54.1%","0.1%","231.8 MB","231.8 MB","1.2 GB","8.3s",8.3
+"diablo","train","GSE123-fold_2","20s","48.6%","0.3%","483.9 MB","483.9 MB","1.5 GB","22.1s",22.1
+"cooperative_learning","preprocess","rosmap","28.6s","50.6%","0.3%","636.5 MB","638.3 MB","1.7 GB","29.8s",29.8
+"diablo","preprocess","rosmap","30.9s","47.3%","0.3%","635.9 MB","640 MB","1.7 GB","32.2s",32.2
+"diablo","predict","GSE123-fold_1","6.3s","48.6%","0.1%","235.6 MB","235.6 MB","1.4 GB","8.5s",8.5
+"diablo","predict","GSE123-fold_3","7s","44.4%","0.1%","235.4 MB","235.4 MB","1.4 GB","8.9s",8.9
+"diablo","predict","GSE123-fold_2","6.1s","50.0%","0.1%","233.6 MB","233.6 MB","1.2 GB","8.2s",8.2
+"cooperative_learning","train","multiomics-sim1-fold_2","3m 3s","161.8%","0.3%","630.1 MB","630.1 MB","1.8 GB","3m 4s",184
+"cooperative_learning","train","multiomics-sim1-fold_3","3m 17s","143.6%","0.3%","636.8 MB","636.8 MB","1.8 GB","3m 19s",199
+"cooperative_learning","train","GSE123-fold_3","2m 42s","121.6%","0.3%","632.5 MB","632.5 MB","1.8 GB","2m 44s",164
+"cooperative_learning","predict","multiomics-sim1-fold_2","7.2s","32.6%","0.1%","199.3 MB","199.3 MB","1.2 GB","9.6s",9.6
+"cooperative_learning","train","GSE123-fold_2","3m 17s","135.7%","0.3%","633.5 MB","633.5 MB","1.8 GB","3m 19s",199
+"diablo","train","GSE71669-fold_2","51.3s","27.8%","0.4%","788.7 MB","788.7 MB","2 GB","54.5s",54.5
+"cooperative_learning","predict","GSE123-fold_3","7.9s","30.6%","0.1%","194.9 MB","194.9 MB","1.2 GB","9.9s",9.9
+"diablo","train","multiomics-sim2-fold_1","32s","32.3%","0.3%","529.7 MB","529.7 MB","1.6 GB","35.2s",35.2
+"diablo","train","multiomics-sim2-fold_3","28.7s","35.0%","0.3%","505 MB","505 MB","1.6 GB","32.1s",32.1
+"diablo","train","multiomics-sim2-fold_2","30.6s","32.1%","0.3%","591.7 MB","591.7 MB","1.8 GB","33.6s",33.6
+"cooperative_learning","train","multiomics-sim1-fold_1","4m 9s","137.9%","0.3%","626 MB","626.6 MB","1.8 GB","4m 11s",251
+"cooperative_learning","train","rosmap-fold_1","4m 20s","114.7%","0.3%","665.9 MB","670.2 MB","1.8 GB","4m 22s",262
+"diablo","train","GSE71669-fold_1","40.3s","37.4%","0.4%","765.7 MB","765.7 MB","2 GB","42.5s",42.5
+"diablo","train","GSE71669-fold_3","42s","38.6%","0.4%","785.9 MB","785.9 MB","2 GB","44.6s",44.6
+"cooperative_learning","train","GSE123-fold_1","2m 45s","163.3%","0.3%","644.9 MB","644.9 MB","1.8 GB","2m 49s",169
+"cooperative_learning","predict","multiomics-sim1-fold_3","8.4s","27.1%","0.1%","197.6 MB","197.6 MB","1.2 GB","10.3s",10.3
+"diablo","train","rosmap-fold_2","29.4s","34.1%","0.3%","529.7 MB","529.7 MB","1.6 GB","31.7s",31.7
+"diablo","predict","multiomics-sim1-fold_3","9.4s","34.0%","0.1%","232.5 MB","232.5 MB","1.2 GB","11.8s",11.8
+"diablo","predict","multiomics-sim2-fold_1","9.3s","36.2%","0.1%","233.6 MB","233.6 MB","1.4 GB","11.8s",11.8
+"diablo","train","rosmap-fold_1","23.5s","47.3%","0.3%","504.9 MB","504.9 MB","1.6 GB","25.1s",25.1
+"diablo","predict","multiomics-sim1-fold_2","8.2s","40.3%","0.1%","235.4 MB","235.4 MB","1.4 GB","11.1s",11.1
+"cooperative_learning","predict","rosmap-fold_1","5.4s","42.9%","0.1%","209.1 MB","209.1 MB","1.3 GB","7.9s",7.9
+"cooperative_learning","train","multiomics-sim2-fold_3","6m 20s","132.7%","0.3%","631.8 MB","632.8 MB","1.8 GB","6m 24s",384
+"cooperative_learning","train","rosmap-fold_2","4m 3s","127.4%","0.3%","662.7 MB","664.7 MB","1.8 GB","4m 7s",247
+"cooperative_learning","predict","GSE123-fold_2","7.5s","30.9%","0.1%","197.7 MB","197.7 MB","1.2 GB","11.4s",11.4
+"cooperative_learning","train","multiomics-sim2-fold_2","6m 7s","130.9%","0.3%","629.2 MB","632.5 MB","1.8 GB","6m 10s",370
+"cooperative_learning","train","multiomics-sim2-fold_1","6m 10s","138.1%","0.3%","635.2 MB","635.2 MB","1.8 GB","6m 14s",374
+"diablo","train","rosmap-fold_3","20.4s","49.0%","0.3%","590.4 MB","590.4 MB","1.8 GB","23.6s",23.6
+"cooperative_learning","train","rosmap-fold_3","4m 5s","129.0%","0.3%","662 MB","662 MB","1.8 GB","4m 8s",248
+"diablo","predict","multiomics-sim2-fold_2","5.6s","58.0%","0.1%","231.8 MB","231.8 MB","1.2 GB","7.7s",7.7
+"cooperative_learning","predict","rosmap-fold_2","5.1s","44.3%","0.1%","192.4 MB","192.4 MB","1.2 GB","8.7s",8.7
+"diablo","predict","GSE71669-fold_2","8.5s","48.8%","0.1%","257.3 MB","257.3 MB","1.4 GB","12.4s",12.4
+"mogonet","preprocess","breast_tcga","17.6s","20.9%","0.2%","339.9 MB","339.9 MB","3.4 GB","23.5s",23.5
+"cooperative_learning","predict","multiomics-sim2-fold_3","5.5s","43.0%","0.1%","198.3 MB","198.3 MB","1.2 GB","8.6s",8.6
+"diablo","predict","multiomics-sim2-fold_3","5.7s","55.8%","0.1%","232.1 MB","232.1 MB","1.2 GB","11s",11
+"cooperative_learning","predict","rosmap-fold_3","6.3s","38.0%","0.1%","195.9 MB","195.9 MB","1.2 GB","9.6s",9.6
+"cooperative_learning","predict","multiomics-sim1-fold_1","5.1s","43.7%","0.1%","191.4 MB","191.4 MB","1.2 GB","10.3s",10.3
+"diablo","predict","GSE71669-fold_1","8.3s","49.2%","0.1%","265.6 MB","265.6 MB","1.4 GB","12.5s",12.5
+"diablo","predict","GSE71669-fold_3","7.7s","49.4%","0.1%","258.8 MB","258.8 MB","1.3 GB","10.9s",10.9
+"cooperative_learning","predict","GSE123-fold_1","5.5s","41.8%","0.1%","183.9 MB","183.9 MB","1.2 GB","9.2s",9.2
+"diablo","predict","rosmap-fold_2","8.2s","48.8%","0.1%","233.3 MB","233.3 MB","1.4 GB","11.5s",11.5
+"diablo","predict","rosmap-fold_1","8.6s","46.4%","0.1%","231.6 MB","231.6 MB","1.4 GB","12.5s",12.5
+"cooperative_learning","predict","multiomics-sim2-fold_2","6s","39.7%","0.1%","210.1 MB","210.1 MB","1.3 GB","10s",10
+"cooperative_learning","predict","multiomics-sim2-fold_1","4.9s","46.5%","0.1%","212.6 MB","212.6 MB","1.3 GB","9.5s",9.5
+"cooperative_learning","preprocess","breast_tcga","29.6s","40.8%","0.3%","636.5 MB","636.5 MB","1.7 GB","34.1s",34.1
+"diablo","preprocess","breast_tcga","26.6s","45.4%","0.3%","642.1 MB","642.1 MB","1.7 GB","30.7s",30.7
+"mogonet","train","GSE71669-fold_3","6m 52s","375.9%","0.2%","475.3 MB","475.3 MB","3.7 GB","6m 57s",417
+"diablo","predict","rosmap-fold_3","7.7s","53.9%","0.1%","231.4 MB","231.4 MB","1.4 GB","11.2s",11.2
+"cooperative_learning","train","breast_tcga-fold_2","2m 9s","246.1%","0.3%","614.8 MB","614.8 MB","1.8 GB","2m 13s",133
+"cooperative_learning","train","breast_tcga-fold_1","2m 20s","268.1%","0.3%","628.8 MB","630.7 MB","1.8 GB","2m 27s",147
+"cooperative_learning","train","breast_tcga-fold_3","2m 23s","264.2%","0.3%","622.1 MB","622.1 MB","1.8 GB","2m 28s",148
+"mogonet","train","multiomics-sim1-fold_2","7m 56s","292.5%","0.2%","379.1 MB","379.1 MB","3.6 GB","7m 59s",479
+"diablo","train","breast_tcga-fold_2","16.7s","57.2%","0.3%","534.1 MB","534.1 MB","1.6 GB","20.3s",20.3
+"diablo","train","breast_tcga-fold_3","16s","59.3%","0.3%","538.4 MB","538.4 MB","1.6 GB","18.9s",18.9
+"diablo","train","breast_tcga-fold_1","19s","53.2%","0.3%","581.6 MB","581.6 MB","1.8 GB","22.5s",22.5
+"mogonet","predict","GSE71669-fold_3","12.7s","32.4%","0.2%","379.2 MB","382.2 MB","3.6 GB","17.8s",17.8
+"cooperative_learning","predict","breast_tcga-fold_2","6.4s","36.0%","0.1%","191.9 MB","191.9 MB","1.2 GB","10.5s",10.5
+"cooperative_learning","predict","breast_tcga-fold_1","5.3s","42.1%","0.1%","211 MB","211 MB","1.3 GB","9.6s",9.6
+"cooperative_learning","predict","breast_tcga-fold_3","5.6s","41.5%","0.1%","211.1 MB","211.1 MB","1.3 GB","10.5s",10.5
+"mogonet","predict","multiomics-sim1-fold_2","13.8s","27.8%","0.2%","331.1 MB","331.1 MB","3.2 GB","19.8s",19.8
+"diablo","predict","breast_tcga-fold_3","6.8s","48.5%","0.1%","220.3 MB","220.3 MB","1.2 GB","11.3s",11.3
+"diablo","predict","breast_tcga-fold_2","8.9s","39.5%","0.1%","181.6 MB","181.6 MB","1.2 GB","13.7s",13.7
+"diablo","predict","breast_tcga-fold_1","8.9s","39.3%","0.1%","235.2 MB","235.2 MB","1.4 GB","11.9s",11.9
+"mogonet","train","breast_tcga-fold_1","5m 13s","387.8%","0.2%","367.3 MB","367.3 MB","3.6 GB","5m 16s",316
+"mogonet","predict","breast_tcga-fold_1","14.1s","32.4%","0.2%","333.5 MB","333.5 MB","3.2 GB","20.4s",20.4
+"mogonet","train","multiomics-sim2-fold_1","6m","396.9%","0.2%","400.8 MB","400.8 MB","3.6 GB","6m 2s",362
+"cooperative_learning","train","GSE71669-fold_1","37m 12s","98.5%","0.6%","1.2 GB","1.2 GB","2.4 GB","37m 15s",2235
+"cooperative_learning","predict","GSE71669-fold_1","5.2s","46.7%","0.1%","195.9 MB","195.9 MB","1.2 GB","10.3s",10.3
+"mogonet","predict","multiomics-sim2-fold_1","13.6s","26.6%","0.2%","331.8 MB","332.1 MB","3.2 GB","19.7s",19.7
+"cooperative_learning","train","GSE71669-fold_2","38m","99.1%","0.6%","1.2 GB","1.2 GB","2.4 GB","38m 3s",2283
+"cooperative_learning","predict","GSE71669-fold_2","5.3s","43.4%","0.1%","196.1 MB","196.1 MB","1.2 GB","13.8s",13.8
+"cooperative_learning","train","GSE71669-fold_3","33m 46s","110.2%","0.6%","1.2 GB","1.2 GB","2.4 GB","33m 49s",2029
+"mogonet","train","GSE123-fold_2","2m 24s","547.7%","0.2%","399 MB","399 MB","3.7 GB","2m 27s",147
+"mogonet","train","GSE123-fold_1","9.9s","276.4%","0.2%","398.9 MB","398.9 MB","3.7 GB","15.1s",15.1
+"mogonet","train","GSE123-fold_3","12.5s","240.5%","0.2%","399.2 MB","399.2 MB","3.7 GB","15.1s",15.1
+"mogonet","train","multiomics-sim2-fold_3","12.5s","340.1%","0.2%","402.6 MB","402.6 MB","3.7 GB","16.9s",16.9
+"mogonet","train","GSE71669-fold_1","16.4s","290.9%","0.2%","462.9 MB","470.8 MB","3.7 GB","18.9s",18.9
+"mogonet","train","rosmap-fold_1","11s","383.9%","0.2%","403.2 MB","403.2 MB","3.6 GB","13.8s",13.8
+"mogonet","train","breast_tcga-fold_2","13.9s","227.4%","0.2%","371.3 MB","371.3 MB","3.6 GB","16.4s",16.4
+"mogonet","predict","GSE123-fold_3","9.1s","41.1%","0.2%","334.1 MB","334.1 MB","3.2 GB","12.8s",12.8
+"mogonet","predict","multiomics-sim2-fold_3","11.8s","34.4%","0.2%","330 MB","330 MB","3.2 GB","15.9s",15.9
+"mogonet","predict","GSE71669-fold_1","10.8s","36.2%","0.2%","380.5 MB","382.2 MB","3.7 GB","15s",15
+"mogonet","predict","rosmap-fold_1","13.9s","30.3%","0.2%","331.1 MB","331.1 MB","3.2 GB","18.7s",18.7
+"mogonet","train","rosmap-fold_2","23.3s","477.4%","0.2%","403.4 MB","403.4 MB","3.6 GB","28s",28
+"cooperative_learning","predict","GSE71669-fold_3","2.7s","114.1%","0.1%","197.7 MB","197.7 MB","1.2 GB","3.7s",3.7
+"mogonet","predict","GSE123-fold_1","5.6s","76.9%","0.2%","330.4 MB","330.4 MB","3.2 GB","12.9s",12.9
+"mogonet","predict","GSE123-fold_2","4.8s","74.1%","0.2%","329.1 MB","329.1 MB","3.2 GB","7.4s",7.4
+"mogonet","predict","breast_tcga-fold_2","4.7s","84.2%","0.2%","328 MB","328 MB","3.2 GB","8.1s",8.1
+"mogonet","train","multiomics-sim1-fold_1","9.5s","318.5%","0.2%","403.3 MB","403.3 MB","3.9 GB","12s",12
+"mogonet","predict","rosmap-fold_2","4.6s","90.9%","0.2%","331.6 MB","331.6 MB","3.2 GB","9.6s",9.6
+"mogonet","train","breast_tcga-fold_3","9.8s","360.8%","0.2%","367.3 MB","367.3 MB","3.6 GB","12.2s",12.2
+"mogonet","train","rosmap-fold_3","13.4s","289.0%","0.2%","404.1 MB","404.1 MB","3.6 GB","15.9s",15.9
+"mogonet","train","multiomics-sim2-fold_2","15.3s","445.9%","0.2%","403.7 MB","403.7 MB","3.7 GB","21.5s",21.5
+"mogonet","predict","multiomics-sim1-fold_1","11.6s","31.3%","0.2%","327.6 MB","327.6 MB","3.2 GB","14.9s",14.9
+"mogonet","predict","breast_tcga-fold_3","11.6s","44.2%","0.2%","325.8 MB","325.8 MB","3.2 GB","14.2s",14.2
+"mogonet","predict","rosmap-fold_3","7.8s","46.3%","0.2%","330.4 MB","330.4 MB","3.2 GB","13.6s",13.6
+"mogonet","predict","multiomics-sim2-fold_2","6.6s","57.7%","0.2%","333 MB","333 MB","3.2 GB","10.6s",10.6
+"mogonet","train","GSE71669-fold_2","12.5s","418.9%","0.2%","472.1 MB","480.3 MB","3.8 GB","15s",15
+"mogonet","train","multiomics-sim1-fold_3","9.6s","344.4%","0.2%","402.9 MB","402.9 MB","3.7 GB","12s",12
+"mogonet","predict","GSE71669-fold_2","7.8s","52.3%","0.2%","330.3 MB","330.3 MB","3.1 GB","10.2s",10.2
+"mogonet","predict","multiomics-sim1-fold_3","4.2s","80.7%","0.2%","321.1 MB","321.1 MB","3.1 GB","6.4s",6.4
